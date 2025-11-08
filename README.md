@@ -34,7 +34,7 @@ L’application met en œuvre :
 ### 2.1 Stack technologique
 | Composant | Technologie utilisée |
 |------------|----------------------|
-| Langage | Java |
+| Langage | Java 21 |
 | ORM | Hibernate (JPA) |
 | Base de données | MySQL |
 | Gestionnaire de dépendances | Maven |
